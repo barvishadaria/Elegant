@@ -1,0 +1,4 @@
+[2020-6-27 13:04:59] layer "+88 (0) 101 0000000 +88 (0) 101 0000000": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2020-6-27 13:04:59] layer "+88 (0) 202 0000 000 +88 (0) 202 0000 000": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2020-6-27 13:04:59] layer "elegant@elegant.com commercial@elegant.com": Unsupported extension: com
+[2020-6-27 13:04:59] layer "Email: imdiogodantas@gmail.com": Unsupported extension: com

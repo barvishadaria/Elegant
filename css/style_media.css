@@ -1,0 +1,87 @@
+@media only screen and (max-width: 1024px) {
+    .main_screen {
+        padding-bottom: 0px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    header {
+        margin-bottom: 65px;
+    }
+
+    h1 {
+        font-size: 55px;
+    }
+
+    h1 span {
+        font-size: 55px;
+    }
+
+    p.desk {
+        color: transparent;
+        position: absolute;
+    }
+
+    p.mobile {
+        color: #505d68;
+        position: static;
+    }
+
+    footer .container {
+        flex-direction: column;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    .main_screen{
+        background-image: url("../img/bg_mobile.jpg");
+        padding-bottom: 250px;
+        padding-top: 0;
+    }
+
+    header {
+        background-color: rgba(84, 90, 91, 0.65);
+        padding: 14px 0;
+    }
+
+    .main_screen a.icon {
+        color: #fff;
+        border: #fff solid 2px;
+    }
+
+    .menu {
+        padding-bottom: 9px;
+    }
+
+    .gold {
+        font-size: 22px;
+        margin-bottom: 40px;
+    }
+
+    h2 {
+        font-size: 54px;
+        margin-bottom: 30px;
+    }
+
+    h3 {
+        font-size: 54px;
+    }
+
+    .work_photo {
+        width: 100%;
+    }
+
+    .management .wrap {
+        flex-direction: column;
+    }
+
+    .manager {
+        width: 90%;
+        margin: auto;;
+    }
+
+    .post {
+        flex-direction: column;
+    }
+
+}
